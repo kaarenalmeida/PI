@@ -1,1 +1,1 @@
-# aulacss
+Exercícios de CSS inline, interno e externo.
